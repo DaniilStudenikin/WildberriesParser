@@ -21,3 +21,5 @@
 
 
 # [Готовое решение на python](https://happypython.ru/2022/07/21/парсер-wildberries/)
+
+# https://habr.com/ru/post/668930/
