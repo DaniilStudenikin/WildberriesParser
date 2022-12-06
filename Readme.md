@@ -19,5 +19,11 @@
 # Сами данные
 ![img_2.png](img_2.png)
 
+# Фильтры
+![img_2.png](img_6.png)
+
+![img_2.png](img_5.png)
+
+![img_2.png](img_7.png)
 
 # [Готовое решение на python](https://happypython.ru/2022/07/21/парсер-wildberries/)
